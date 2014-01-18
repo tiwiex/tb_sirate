@@ -1,0 +1,8 @@
+filename = "EverestManagementConsulting-2014-01-18T08-23-30"
+description = ""
+datestamp = "1390008215"
+generator = "Backup and Migrate (http://drupal.org/project/backup_migrate)"
+generatorversion = "7.x-2.x"
+sites[0][version] = "7.22"
+sites[0][name] = "Everest Management Consulting"
+sites[0][url] = "http://localhost:8080/tb_sirate/"

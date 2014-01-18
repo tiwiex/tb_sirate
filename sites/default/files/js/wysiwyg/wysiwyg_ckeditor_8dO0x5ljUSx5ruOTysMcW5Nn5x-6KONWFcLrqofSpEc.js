@@ -1,0 +1,1 @@
+window.CKEDITOR_BASEPATH = '/tb_sirate/sites/all/libraries/ckeditor/';
