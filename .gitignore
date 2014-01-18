@@ -20,3 +20,4 @@ xmlrpc.php
 /profiles
 /scripts
 /themes
+/sites/default/files/tmp/*
